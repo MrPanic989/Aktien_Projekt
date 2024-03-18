@@ -1,0 +1,3 @@
+/Users/sinisapanic/Desktop/Aktien Beispiel - Leitner, Panic/cmake-build-debug/CMakeFiles/2_ALGOS_Aktien.dir
+/Users/sinisapanic/Desktop/Aktien Beispiel - Leitner, Panic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sinisapanic/Desktop/Aktien Beispiel - Leitner, Panic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
